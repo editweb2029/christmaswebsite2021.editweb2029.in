@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+html{
+    background-color: rgb(26, 100, 19);
+}
+
+.body1{
+    color: rgb(255, 255, 255);
+}
+
+.menu{
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    font-size: 200%;
+    text-transform: uppercase;
+    object-position: center;
+    text-decoration: none;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.heading1{
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    font-size: 600%;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.section1{
+    text-align: center;
+    background-color: rgb(168, 38, 38);
+    text-decoration: none;
+}
+
+img{
+    width: 1000px;
+    height: 700px;
+    text-align: center;
+}
+
+.section2{
+    text-align: center;
+}
+
+.para2{
+    color: rgb(255, 255, 255);
+    font-family: 'Playfair Display', serif;
+}
+
+.section3{
+    text-align: center;
+}
+
+.para1{
+    text-align: center;
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+}
+
+.section4{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 200%;
+}
+
+.para{
+    color: rgb(255, 255, 255);
+    font-family: 'Mountains of Christmas', cursive;
+}
